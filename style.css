@@ -1,0 +1,40 @@
+/* h1{
+    font-size: 50px;
+    text-decoration: dotted;
+    color: tomato;
+    letter-spacing: 10px;
+}
+
+p{
+    color: navy;
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+.p2{
+    color: tomato;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+#p3{
+    color: green;
+    font-style: 13px;
+    font-style:italic;
+} */
+
+h3,.p2{
+    color: purple;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.box p{
+    color: red;
+    font-size: 20px;
+}
+
+article > p{
+    color: green;
+}
